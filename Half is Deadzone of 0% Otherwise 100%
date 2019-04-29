@@ -1,0 +1,1 @@
+Round((0-(Min(Input,0.3)- Max(Input,0.7))*2)-.3)
